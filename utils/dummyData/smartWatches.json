@@ -1,0 +1,1158 @@
+[
+    {
+        "title": "Apple Watch Series 9",
+        "description": "Apple Watch Series 9 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 100,
+        "sold": 0,
+        "price": 299,
+        "priceAfterDiscount": 279,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_1.jpg",
+                "publicId": "watch_1_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b2ae49d10dee7ca8b4bc4",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 20,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Samsung Galaxy Watch 6",
+        "description": "Samsung Galaxy Watch 6 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 101,
+        "sold": 2,
+        "price": 309,
+        "priceAfterDiscount": 289,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_2.jpg",
+                "publicId": "watch_2_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b2b8598ae08824ff13e3b",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 21,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Fitbit Versa 4",
+        "description": "Fitbit Versa 4 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 102,
+        "sold": 4,
+        "price": 319,
+        "priceAfterDiscount": 299,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_3.jpg",
+                "publicId": "watch_3_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c80a643f2dd33ffe39d7b",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 22,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Garmin Venu 3",
+        "description": "Garmin Venu 3 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 103,
+        "sold": 6,
+        "price": 329,
+        "priceAfterDiscount": 309,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_4.jpg",
+                "publicId": "watch_4_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c80e1f50024bf64bcfada",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 23,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Amazfit GTR 4",
+        "description": "Amazfit GTR 4 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 104,
+        "sold": 8,
+        "price": 339,
+        "priceAfterDiscount": 319,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_5.jpg",
+                "publicId": "watch_5_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8119a4ce2bec113574bc",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 24,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Huawei Watch GT 4",
+        "description": "Huawei Watch GT 4 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 105,
+        "sold": 10,
+        "price": 349,
+        "priceAfterDiscount": 329,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_6.jpg",
+                "publicId": "watch_6_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b2b9198ae08824ff13e3d",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 25,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Google Pixel Watch",
+        "description": "Google Pixel Watch is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 106,
+        "sold": 12,
+        "price": 359,
+        "priceAfterDiscount": 339,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_7.jpg",
+                "publicId": "watch_7_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8194d187c9fc61aac573",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 26,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "TicWatch Pro 5",
+        "description": "TicWatch Pro 5 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 108,
+        "sold": 16,
+        "price": 379,
+        "priceAfterDiscount": 359,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_9.jpg",
+                "publicId": "watch_9_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8202013693f9aff50b28",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 28,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Polar Ignite 3",
+        "description": "Polar Ignite 3 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 110,
+        "sold": 20,
+        "price": 399,
+        "priceAfterDiscount": 379,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_11.jpg",
+                "publicId": "watch_11_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c827ee78f727757389474",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 30,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Suunto 9 Peak Pro",
+        "description": "Suunto 9 Peak Pro is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 111,
+        "sold": 22,
+        "price": 409,
+        "priceAfterDiscount": 389,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_12.jpg",
+                "publicId": "watch_12_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c829b4380cfd2598735ed",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 31,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Casio G-Shock GBD-H1000",
+        "description": "Casio G-Shock GBD-H1000 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 112,
+        "sold": 24,
+        "price": 419,
+        "priceAfterDiscount": 399,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_13.jpg",
+                "publicId": "watch_13_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c82c995aff000a42b92d1",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 32,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Xiaomi Watch S1",
+        "description": "Xiaomi Watch S1 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 113,
+        "sold": 26,
+        "price": 429,
+        "priceAfterDiscount": 409,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_14.jpg",
+                "publicId": "watch_14_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b58def5a8d6f609efce82",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 33,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Realme Watch 3 Pro",
+        "description": "Realme Watch 3 Pro is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 114,
+        "sold": 28,
+        "price": 439,
+        "priceAfterDiscount": 419,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_15.jpg",
+                "publicId": "watch_15_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b59408fd30259dfb4d02d",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 34,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Oppo Watch 3",
+        "description": "Oppo Watch 3 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 115,
+        "sold": 30,
+        "price": 449,
+        "priceAfterDiscount": 429,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_16.jpg",
+                "publicId": "watch_16_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b5effe3f780ddd8810354",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 35,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "OnePlus Watch",
+        "description": "OnePlus Watch is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 117,
+        "sold": 34,
+        "price": 469,
+        "priceAfterDiscount": 449,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_18.jpg",
+                "publicId": "watch_18_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c83c0b7f1f5540d0ec6d1",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 37,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Honor Watch GS 3",
+        "description": "Honor Watch GS 3 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 118,
+        "sold": 36,
+        "price": 479,
+        "priceAfterDiscount": 459,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_19.jpg",
+                "publicId": "watch_19_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c83fd5cf6b494f3a422b6",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 38,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Amazfit Bip U Pro",
+        "description": "Amazfit Bip U Pro is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 119,
+        "sold": 38,
+        "price": 489,
+        "priceAfterDiscount": 469,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_20.jpg",
+                "publicId": "watch_20_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8119a4ce2bec113574bc",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 39,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Samsung Galaxy Watch Active 2",
+        "description": "Samsung Galaxy Watch Active 2 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 120,
+        "sold": 40,
+        "price": 499,
+        "priceAfterDiscount": 479,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_21.jpg",
+                "publicId": "watch_21_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b2b8598ae08824ff13e3b",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 40,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Apple Watch SE 2",
+        "description": "Apple Watch SE 2 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 121,
+        "sold": 42,
+        "price": 509,
+        "priceAfterDiscount": 489,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_22.jpg",
+                "publicId": "watch_22_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b2ae49d10dee7ca8b4bc4",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 41,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Garmin Forerunner 255",
+        "description": "Garmin Forerunner 255 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 122,
+        "sold": 44,
+        "price": 519,
+        "priceAfterDiscount": 499,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_23.jpg",
+                "publicId": "watch_23_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c80e1f50024bf64bcfada",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 42,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Montblanc Summit 3",
+        "description": "Montblanc Summit 3 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 124,
+        "sold": 48,
+        "price": 539,
+        "priceAfterDiscount": 519,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_25.jpg",
+                "publicId": "watch_25_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8425c6b3e3cd479d8270",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 44,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Diesel Griffed Gen 6",
+        "description": "Diesel Griffed Gen 6 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 126,
+        "sold": 52,
+        "price": 559,
+        "priceAfterDiscount": 539,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_27.jpg",
+                "publicId": "watch_27_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c846f4bb15ea3b75ac9c8",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 46,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Misfit Vapor X",
+        "description": "Misfit Vapor X is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 127,
+        "sold": 54,
+        "price": 569,
+        "priceAfterDiscount": 549,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_28.jpg",
+                "publicId": "watch_28_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8487c91bd69e404e2cc1",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 47,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "TicWatch C2+",
+        "description": "TicWatch C2+ is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 128,
+        "sold": 56,
+        "price": 579,
+        "priceAfterDiscount": 559,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_29.jpg",
+                "publicId": "watch_29_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8202013693f9aff50b28",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 48,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Coros Pace 3",
+        "description": "Coros Pace 3 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 129,
+        "sold": 58,
+        "price": 589,
+        "priceAfterDiscount": 569,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_30.jpg",
+                "publicId": "watch_30_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c849afcccf2e436276a0f",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 49,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Skagen Falster Gen 6",
+        "description": "Skagen Falster Gen 6 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 130,
+        "sold": 60,
+        "price": 599,
+        "priceAfterDiscount": 579,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_31.jpg",
+                "publicId": "watch_31_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c84aea7ba30b87189886c",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 50,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Michael Kors Access Gen 6",
+        "description": "Michael Kors Access Gen 6 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 131,
+        "sold": 62,
+        "price": 609,
+        "priceAfterDiscount": 589,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_32.jpg",
+                "publicId": "watch_32_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c84c4daacb6f346bce4f9",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 51,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Amazfit T-Rex Ultra",
+        "description": "Amazfit T-Rex Ultra is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 132,
+        "sold": 64,
+        "price": 619,
+        "priceAfterDiscount": 599,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_33.jpg",
+                "publicId": "watch_33_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c8119a4ce2bec113574bc",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 52,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Huawei Band 8",
+        "description": "Huawei Band 8 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 133,
+        "sold": 66,
+        "price": 629,
+        "priceAfterDiscount": 609,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_34.jpg",
+                "publicId": "watch_34_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b2b9198ae08824ff13e3d",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 53,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Xiaomi Mi Smart Band 8",
+        "description": "Xiaomi Mi Smart Band 8 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 134,
+        "sold": 68,
+        "price": 639,
+        "priceAfterDiscount": 619,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_35.jpg",
+                "publicId": "watch_35_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b58def5a8d6f609efce82",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 54,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Samsung Galaxy Fit 2",
+        "description": "Samsung Galaxy Fit 2 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 135,
+        "sold": 70,
+        "price": 649,
+        "priceAfterDiscount": 629,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_36.jpg",
+                "publicId": "watch_36_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673b2b8598ae08824ff13e3b",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 55,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Garmin Instinct 2 Solar",
+        "description": "Garmin Instinct 2 Solar is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 136,
+        "sold": 72,
+        "price": 659,
+        "priceAfterDiscount": 639,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_37.jpg",
+                "publicId": "watch_37_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c80e1f50024bf64bcfada",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 56,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Suunto Vertical",
+        "description": "Suunto Vertical is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 137,
+        "sold": 74,
+        "price": 669,
+        "priceAfterDiscount": 649,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_38.jpg",
+                "publicId": "watch_38_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c829b4380cfd2598735ed",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 57,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    },
+    {
+        "title": "Casio Pro Trek Smart WSD-F30",
+        "description": "Casio Pro Trek Smart WSD-F30 is a state-of-the-art smartwatch with advanced features for fitness, health tracking, and more.",
+        "quantity": 138,
+        "sold": 76,
+        "price": 679,
+        "priceAfterDiscount": 659,
+        "colors": [
+            "Black",
+            "Silver",
+            "Gold",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/images/watch_39.jpg",
+                "publicId": "watch_39_img"
+            }
+        ],
+        "category": "673c84f25724c7f4d9b79778",
+        "brand": "673c82c995aff000a42b92d1",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 58,
+        "specifications": {
+            "Battery Life": "Up to 7 days",
+            "Water Resistance": "5 ATM",
+            "Connectivity": "Bluetooth, Wi-Fi, NFC",
+            "Compatibility": "iOS & Android"
+        },
+        "timestamps": {
+            "createdAt": "2024-11-17T12:00:00Z",
+            "updatedAt": "2024-11-17T12:00:00Z"
+        }
+    }
+]

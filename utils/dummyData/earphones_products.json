@@ -1,0 +1,1362 @@
+[
+    {
+        "title": "Sony Wireless Earbuds Model 1",
+        "description": "Experience premium sound with the Sony Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 50,
+        "sold": 0,
+        "price": 1500,
+        "priceAfterDiscount": 1300,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b531f6352973c753e71cf",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 5,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "JBL Wireless Earbuds Model 2",
+        "description": "Experience premium sound with the JBL Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 51,
+        "sold": 5,
+        "price": 1700,
+        "priceAfterDiscount": 1480,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d06d9028c1bf30d268f",
+        "ratingsAverage": 3.6,
+        "ratingsQuantity": 7,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Apple Wireless Earbuds Model 3",
+        "description": "Experience premium sound with the Apple Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 52,
+        "sold": 10,
+        "price": 1900,
+        "priceAfterDiscount": 1660,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2ae49d10dee7ca8b4bc4",
+        "ratingsAverage": 3.7,
+        "ratingsQuantity": 9,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Samsung Wireless Earbuds Model 4",
+        "description": "Experience premium sound with the Samsung Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 53,
+        "sold": 15,
+        "price": 2100,
+        "priceAfterDiscount": 1840,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2b8598ae08824ff13e3b",
+        "ratingsAverage": 3.8,
+        "ratingsQuantity": 11,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Beats Wireless Earbuds Model 5",
+        "description": "Experience premium sound with the Beats Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 54,
+        "sold": 20,
+        "price": 2300,
+        "priceAfterDiscount": 2020,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d9e1edbe17bfbd45b61",
+        "ratingsAverage": 3.9,
+        "ratingsQuantity": 13,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Bose Wireless Earbuds Model 6",
+        "description": "Experience premium sound with the Bose Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 55,
+        "sold": 25,
+        "price": 2500,
+        "priceAfterDiscount": 2200,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dd210719dee2b3c346a",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 15,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Anker Wireless Earbuds Model 7",
+        "description": "Experience premium sound with the Anker Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 56,
+        "sold": 30,
+        "price": 2700,
+        "priceAfterDiscount": 2380,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dfb2266917026c52411",
+        "ratingsAverage": 4.1,
+        "ratingsQuantity": 17,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Sennheiser Wireless Earbuds Model 8",
+        "description": "Experience premium sound with the Sennheiser Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 57,
+        "sold": 35,
+        "price": 2900,
+        "priceAfterDiscount": 2560,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e2bd17a627e183403b6",
+        "ratingsAverage": 4.2,
+        "ratingsQuantity": 19,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Skullcandy Wireless Earbuds Model 9",
+        "description": "Experience premium sound with the Skullcandy Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 58,
+        "sold": 40,
+        "price": 3100,
+        "priceAfterDiscount": 2740,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e6ec0bf53df044b5649",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 21,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Xiaomi Wireless Earbuds Model 10",
+        "description": "Experience premium sound with the Xiaomi Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 59,
+        "sold": 45,
+        "price": 3300,
+        "priceAfterDiscount": 2920,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b58def5a8d6f609efce82",
+        "ratingsAverage": 4.4,
+        "ratingsQuantity": 23,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Sony Wireless Earbuds Model 11",
+        "description": "Experience premium sound with the Sony Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 60,
+        "sold": 50,
+        "price": 1500,
+        "priceAfterDiscount": 1300,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b531f6352973c753e71cf",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 25,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "JBL Wireless Earbuds Model 12",
+        "description": "Experience premium sound with the JBL Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 61,
+        "sold": 55,
+        "price": 1700,
+        "priceAfterDiscount": 1480,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d06d9028c1bf30d268f",
+        "ratingsAverage": 3.6,
+        "ratingsQuantity": 27,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Apple Wireless Earbuds Model 13",
+        "description": "Experience premium sound with the Apple Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 62,
+        "sold": 60,
+        "price": 1900,
+        "priceAfterDiscount": 1660,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2ae49d10dee7ca8b4bc4",
+        "ratingsAverage": 3.7,
+        "ratingsQuantity": 29,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Samsung Wireless Earbuds Model 14",
+        "description": "Experience premium sound with the Samsung Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 63,
+        "sold": 65,
+        "price": 2100,
+        "priceAfterDiscount": 1840,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2b8598ae08824ff13e3b",
+        "ratingsAverage": 3.8,
+        "ratingsQuantity": 31,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Beats Wireless Earbuds Model 15",
+        "description": "Experience premium sound with the Beats Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 64,
+        "sold": 70,
+        "price": 2300,
+        "priceAfterDiscount": 2020,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d9e1edbe17bfbd45b61",
+        "ratingsAverage": 3.9,
+        "ratingsQuantity": 33,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Bose Wireless Earbuds Model 16",
+        "description": "Experience premium sound with the Bose Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 65,
+        "sold": 75,
+        "price": 2500,
+        "priceAfterDiscount": 2200,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dd210719dee2b3c346a",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 35,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Anker Wireless Earbuds Model 17",
+        "description": "Experience premium sound with the Anker Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 66,
+        "sold": 80,
+        "price": 2700,
+        "priceAfterDiscount": 2380,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dfb2266917026c52411",
+        "ratingsAverage": 4.1,
+        "ratingsQuantity": 37,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Sennheiser Wireless Earbuds Model 18",
+        "description": "Experience premium sound with the Sennheiser Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 67,
+        "sold": 85,
+        "price": 2900,
+        "priceAfterDiscount": 2560,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e2bd17a627e183403b6",
+        "ratingsAverage": 4.2,
+        "ratingsQuantity": 39,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Skullcandy Wireless Earbuds Model 19",
+        "description": "Experience premium sound with the Skullcandy Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 68,
+        "sold": 90,
+        "price": 3100,
+        "priceAfterDiscount": 2740,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e6ec0bf53df044b5649",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 41,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Xiaomi Wireless Earbuds Model 20",
+        "description": "Experience premium sound with the Xiaomi Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 69,
+        "sold": 95,
+        "price": 3300,
+        "priceAfterDiscount": 2920,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b58def5a8d6f609efce82",
+        "ratingsAverage": 4.4,
+        "ratingsQuantity": 43,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Sony Wireless Earbuds Model 21",
+        "description": "Experience premium sound with the Sony Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 70,
+        "sold": 100,
+        "price": 1500,
+        "priceAfterDiscount": 1300,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b531f6352973c753e71cf",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 45,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "JBL Wireless Earbuds Model 22",
+        "description": "Experience premium sound with the JBL Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 71,
+        "sold": 105,
+        "price": 1700,
+        "priceAfterDiscount": 1480,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d06d9028c1bf30d268f",
+        "ratingsAverage": 3.6,
+        "ratingsQuantity": 47,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Apple Wireless Earbuds Model 23",
+        "description": "Experience premium sound with the Apple Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 72,
+        "sold": 110,
+        "price": 1900,
+        "priceAfterDiscount": 1660,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2ae49d10dee7ca8b4bc4",
+        "ratingsAverage": 3.7,
+        "ratingsQuantity": 49,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Samsung Wireless Earbuds Model 24",
+        "description": "Experience premium sound with the Samsung Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 73,
+        "sold": 115,
+        "price": 2100,
+        "priceAfterDiscount": 1840,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2b8598ae08824ff13e3b",
+        "ratingsAverage": 3.8,
+        "ratingsQuantity": 51,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Beats Wireless Earbuds Model 25",
+        "description": "Experience premium sound with the Beats Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 74,
+        "sold": 120,
+        "price": 2300,
+        "priceAfterDiscount": 2020,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d9e1edbe17bfbd45b61",
+        "ratingsAverage": 3.9,
+        "ratingsQuantity": 53,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Bose Wireless Earbuds Model 26",
+        "description": "Experience premium sound with the Bose Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 75,
+        "sold": 125,
+        "price": 2500,
+        "priceAfterDiscount": 2200,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dd210719dee2b3c346a",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 55,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Anker Wireless Earbuds Model 27",
+        "description": "Experience premium sound with the Anker Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 76,
+        "sold": 130,
+        "price": 2700,
+        "priceAfterDiscount": 2380,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dfb2266917026c52411",
+        "ratingsAverage": 4.1,
+        "ratingsQuantity": 57,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Sennheiser Wireless Earbuds Model 28",
+        "description": "Experience premium sound with the Sennheiser Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 77,
+        "sold": 135,
+        "price": 2900,
+        "priceAfterDiscount": 2560,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e2bd17a627e183403b6",
+        "ratingsAverage": 4.2,
+        "ratingsQuantity": 59,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Skullcandy Wireless Earbuds Model 29",
+        "description": "Experience premium sound with the Skullcandy Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 78,
+        "sold": 140,
+        "price": 3100,
+        "priceAfterDiscount": 2740,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e6ec0bf53df044b5649",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 61,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Xiaomi Wireless Earbuds Model 30",
+        "description": "Experience premium sound with the Xiaomi Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 79,
+        "sold": 145,
+        "price": 3300,
+        "priceAfterDiscount": 2920,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b58def5a8d6f609efce82",
+        "ratingsAverage": 4.4,
+        "ratingsQuantity": 63,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Sony Wireless Earbuds Model 31",
+        "description": "Experience premium sound with the Sony Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 80,
+        "sold": 150,
+        "price": 1500,
+        "priceAfterDiscount": 1300,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b531f6352973c753e71cf",
+        "ratingsAverage": 3.5,
+        "ratingsQuantity": 65,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "JBL Wireless Earbuds Model 32",
+        "description": "Experience premium sound with the JBL Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 81,
+        "sold": 155,
+        "price": 1700,
+        "priceAfterDiscount": 1480,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d06d9028c1bf30d268f",
+        "ratingsAverage": 3.6,
+        "ratingsQuantity": 67,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Apple Wireless Earbuds Model 33",
+        "description": "Experience premium sound with the Apple Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 82,
+        "sold": 160,
+        "price": 1900,
+        "priceAfterDiscount": 1660,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2ae49d10dee7ca8b4bc4",
+        "ratingsAverage": 3.7,
+        "ratingsQuantity": 69,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Samsung Wireless Earbuds Model 34",
+        "description": "Experience premium sound with the Samsung Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 83,
+        "sold": 165,
+        "price": 2100,
+        "priceAfterDiscount": 1840,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b2b8598ae08824ff13e3b",
+        "ratingsAverage": 3.8,
+        "ratingsQuantity": 71,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Beats Wireless Earbuds Model 35",
+        "description": "Experience premium sound with the Beats Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 84,
+        "sold": 170,
+        "price": 2300,
+        "priceAfterDiscount": 2020,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7d9e1edbe17bfbd45b61",
+        "ratingsAverage": 3.9,
+        "ratingsQuantity": 73,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Bose Wireless Earbuds Model 36",
+        "description": "Experience premium sound with the Bose Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 85,
+        "sold": 175,
+        "price": 2500,
+        "priceAfterDiscount": 2200,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dd210719dee2b3c346a",
+        "ratingsAverage": 4.0,
+        "ratingsQuantity": 75,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "5 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Anker Wireless Earbuds Model 37",
+        "description": "Experience premium sound with the Anker Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 86,
+        "sold": 180,
+        "price": 2700,
+        "priceAfterDiscount": 2380,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7dfb2266917026c52411",
+        "ratingsAverage": 4.1,
+        "ratingsQuantity": 77,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "6 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    },
+    {
+        "title": "Sennheiser Wireless Earbuds Model 38",
+        "description": "Experience premium sound with the Sennheiser Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 87,
+        "sold": 185,
+        "price": 2900,
+        "priceAfterDiscount": 2560,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e2bd17a627e183403b6",
+        "ratingsAverage": 4.2,
+        "ratingsQuantity": 79,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "7 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Skullcandy Wireless Earbuds Model 39",
+        "description": "Experience premium sound with the Skullcandy Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 88,
+        "sold": 190,
+        "price": 3100,
+        "priceAfterDiscount": 2740,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673c7e6ec0bf53df044b5649",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 81,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "8 hours",
+            "Water Resistance": "IPX4",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Passive"
+        }
+    },
+    {
+        "title": "Xiaomi Wireless Earbuds Model 40",
+        "description": "Experience premium sound with the Xiaomi Wireless Earbuds, designed for comfort and durability.",
+        "quantity": 89,
+        "sold": 195,
+        "price": 3300,
+        "priceAfterDiscount": 2920,
+        "colors": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "images": [
+            {
+                "url": "https://example.com/earphone1.jpg",
+                "publicId": "earphone1"
+            },
+            {
+                "url": "https://example.com/earphone2.jpg",
+                "publicId": "earphone2"
+            }
+        ],
+        "category": "673c7ed9334c60461d7f7f69",
+        "brand": "673b58def5a8d6f609efce82",
+        "ratingsAverage": 4.4,
+        "ratingsQuantity": 83,
+        "specifications": {
+            "Connectivity": "Bluetooth 5.0",
+            "Battery Life": "9 hours",
+            "Water Resistance": "IPX5",
+            "Microphone": "Yes",
+            "Noise Cancellation": "Active"
+        }
+    }
+]
