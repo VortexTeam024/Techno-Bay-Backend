@@ -20,8 +20,8 @@
               "publicId": "anker_powercore_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4573",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c7dfb2266917026c52411",
       "ratingsAverage": 4.7,
       "ratingsQuantity": 2000,
       "specifications": {
@@ -50,8 +50,8 @@
               "publicId": "logitech_mx_master_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4574",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c868ad863accf00353d7e",
       "ratingsAverage": 4.8,
       "ratingsQuantity": 3200,
       "specifications": {
@@ -81,8 +81,8 @@
               "publicId": "jbl_accessory_3_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4575",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c7d06d9028c1bf30d268f",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1150,
       "specifications": {
@@ -112,8 +112,8 @@
               "publicId": "belkin_accessory_4_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4576",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c86dee9bc7ba6de765381",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1200,
       "specifications": {
@@ -143,8 +143,8 @@
               "publicId": "anker_accessory_5_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4573",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c7dfb2266917026c52411",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1250,
       "specifications": {
@@ -174,8 +174,8 @@
               "publicId": "logitech_accessory_6_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4574",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c868ad863accf00353d7e",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1300,
       "specifications": {
@@ -205,8 +205,8 @@
               "publicId": "jbl_accessory_7_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4575",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c7d06d9028c1bf30d268f",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1350,
       "specifications": {
@@ -236,8 +236,8 @@
               "publicId": "belkin_accessory_8_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4576",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c86dee9bc7ba6de765381",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1400,
       "specifications": {
@@ -267,8 +267,8 @@
               "publicId": "anker_accessory_9_2"
           }
       ],
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4573",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c7dfb2266917026c52411",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1450,
       "specifications": {
@@ -292,8 +292,8 @@
         "url": "https://example.com/logitech_accessory_10_1.jpg",
         "publicId": "logitech_accessory_10_1"
     },
-      "category": "64a87e6a3b5f4a00123b4572",
-      "brand": "64a87e6a3b5f4a00123b4574",
+      "category": "673c8a3f348115fea6058c25",
+      "brand": "673c868ad863accf00353d7e",
       "ratingsAverage": 4.5,
       "ratingsQuantity": 1500,
       "specifications": {
