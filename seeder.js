@@ -1,26 +1,50 @@
+/* eslint-disable no-await-in-loop */
+/* eslint-disable no-restricted-syntax */
+/* eslint-disable prefer-const */
 require('dotenv').config();
+const path = require('path');
 const fs = require('fs');
 const Product = require('./models/products.model');
 const connectToDB = require('./config/connectDB');
+const { cloudinaryUploadImage } = require('./utils/cloudinary');
 
 // connect to DB
 connectToDB();
 
 
 // Read data
-const products = JSON.parse(fs.readFileSync('./utils/dummyData/tech_accessories.json'));
+// const products = JSON.parse(fs.readFileSync('./utils/dummyData/tech_accessories.json'));
 
-// Insert data into DB
 const insertData = async () => {
-  try {
-    await Product.create(products);
-
+  try{
+    const products = JSON.parse(fs.readFileSync(path.join(__dirname, './utils/dummyData/laptops.json'), 'utf-8'));
+  
+    for (let product of products) {
+      const imageUrl = await cloudinaryUploadImage(product.images);
+      if (imageUrl) {
+        product.image = imageUrl;
+        await Product.create(product);
+      }
+    }
     console.log('Data Inserted');
     process.exit();
-  } catch (error) {
-    console.log(error);
+  }catch (err) {
+    console.log(err);
   }
 };
+
+
+// Insert data into DB
+// const insertData = async () => {
+//   try {
+//     await Product.create(products);
+
+//     console.log('Data Inserted');
+//     process.exit();
+//   } catch (error) {
+//     console.log(error);
+//   }
+// };
 
 // Delete data from DB
 const destroyData = async () => {
