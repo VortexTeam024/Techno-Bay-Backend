@@ -1,898 +1,304 @@
 [
-    {
-        "title": "Apple AirPods Pro",
-        "description": "This is the description for Tech Accessory 1. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 100,
-        "sold": 0,
-        "price": 50.99,
-        "priceAfterDiscount": 45.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory1.jpg",
-                "publicId": "accessory1_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2ae49d10dee7ca8b4bc4",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
+  {
+      "title": "Anker PowerCore 10000",
+      "description": "Compact and portable power bank with fast charging and high capacity.",
+      "quantity": 200,
+      "sold": 70,
+      "price": 1999,
+      "priceAfterDiscount": 1799,
+      "colors": [
+          "Black",
+          "White"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/anker_powercore_1.jpg",
+              "publicId": "anker_powercore_1"
+          },
+          {
+              "url": "https://example.com/anker_powercore_2.jpg",
+              "publicId": "anker_powercore_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4573",
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 2000,
+      "specifications": {
+          "Capacity": "10000mAh",
+          "Fast Charging": "Yes"
+      }
+  },
+  {
+      "title": "Logitech MX Master 3",
+      "description": "Advanced wireless mouse with ergonomic design and customizable buttons.",
+      "quantity": 150,
+      "sold": 50,
+      "price": 8999,
+      "priceAfterDiscount": 8499,
+      "colors": [
+          "Graphite",
+          "Midnight Blue"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/logitech_mx_master_1.jpg",
+              "publicId": "logitech_mx_master_1"
+          },
+          {
+              "url": "https://example.com/logitech_mx_master_2.jpg",
+              "publicId": "logitech_mx_master_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4574",
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 3200,
+      "specifications": {
+          "Connectivity": "Wireless",
+          "Battery Life": "70 days"
+      }
+  },
+  {
+      "title": "JBL Accessory 3",
+      "description": "A high-quality tech accessory from JBL with advanced features.",
+      "quantity": 130,
+      "sold": 35,
+      "price": 3599,
+      "priceAfterDiscount": 3439,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/jbl_accessory_3_1.jpg",
+              "publicId": "jbl_accessory_3_1"
+          },
+          {
+              "url": "https://example.com/jbl_accessory_3_2.jpg",
+              "publicId": "jbl_accessory_3_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4575",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1150,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  },
+  {
+      "title": "Belkin Accessory 4",
+      "description": "A high-quality tech accessory from Belkin with advanced features.",
+      "quantity": 140,
+      "sold": 40,
+      "price": 3799,
+      "priceAfterDiscount": 3619,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/belkin_accessory_4_1.jpg",
+              "publicId": "belkin_accessory_4_1"
+          },
+          {
+              "url": "https://example.com/belkin_accessory_4_2.jpg",
+              "publicId": "belkin_accessory_4_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4576",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1200,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  },
+  {
+      "title": "Anker Accessory 5",
+      "description": "A high-quality tech accessory from Anker with advanced features.",
+      "quantity": 150,
+      "sold": 45,
+      "price": 3999,
+      "priceAfterDiscount": 3799,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/anker_accessory_5_1.jpg",
+              "publicId": "anker_accessory_5_1"
+          },
+          {
+              "url": "https://example.com/anker_accessory_5_2.jpg",
+              "publicId": "anker_accessory_5_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4573",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1250,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  },
+  {
+      "title": "Logitech Accessory 6",
+      "description": "A high-quality tech accessory from Logitech with advanced features.",
+      "quantity": 160,
+      "sold": 50,
+      "price": 4199,
+      "priceAfterDiscount": 3979,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/logitech_accessory_6_1.jpg",
+              "publicId": "logitech_accessory_6_1"
+          },
+          {
+              "url": "https://example.com/logitech_accessory_6_2.jpg",
+              "publicId": "logitech_accessory_6_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4574",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1300,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  },
+  {
+      "title": "JBL Accessory 7",
+      "description": "A high-quality tech accessory from JBL with advanced features.",
+      "quantity": 170,
+      "sold": 55,
+      "price": 4399,
+      "priceAfterDiscount": 4159,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/jbl_accessory_7_1.jpg",
+              "publicId": "jbl_accessory_7_1"
+          },
+          {
+              "url": "https://example.com/jbl_accessory_7_2.jpg",
+              "publicId": "jbl_accessory_7_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4575",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1350,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  },
+  {
+      "title": "Belkin Accessory 8",
+      "description": "A high-quality tech accessory from Belkin with advanced features.",
+      "quantity": 180,
+      "sold": 60,
+      "price": 4599,
+      "priceAfterDiscount": 4339,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/belkin_accessory_8_1.jpg",
+              "publicId": "belkin_accessory_8_1"
+          },
+          {
+              "url": "https://example.com/belkin_accessory_8_2.jpg",
+              "publicId": "belkin_accessory_8_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4576",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1400,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  },
+  {
+      "title": "Anker Accessory 9",
+      "description": "A high-quality tech accessory from Anker with advanced features.",
+      "quantity": 190,
+      "sold": 65,
+      "price": 4799,
+      "priceAfterDiscount": 4519,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": [
+          {
+              "url": "https://example.com/anker_accessory_9_1.jpg",
+              "publicId": "anker_accessory_9_1"
+          },
+          {
+              "url": "https://example.com/anker_accessory_9_2.jpg",
+              "publicId": "anker_accessory_9_2"
+          }
+      ],
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4573",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1450,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  },
+  {
+      "title": "Logitech Accessory 10",
+      "description": "A high-quality tech accessory from Logitech with advanced features.",
+      "quantity": 200,
+      "sold": 70,
+      "price": 4999,
+      "priceAfterDiscount": 4699,
+      "colors": [
+          "Black",
+          "Silver",
+          "Red"
+      ],
+      "images": {
+        "url": "https://example.com/logitech_accessory_10_1.jpg",
+        "publicId": "logitech_accessory_10_1"
     },
-    {
-        "title": "Samsung Galaxy Buds 2",
-        "description": "This is the description for Tech Accessory 2. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 101,
-        "sold": 1,
-        "price": 52.99,
-        "priceAfterDiscount": 47.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory2.jpg",
-                "publicId": "accessory2_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2b8598ae08824ff13e3b",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Sony WH-1000XM5 Headphones",
-        "description": "This is the description for Tech Accessory 3. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 102,
-        "sold": 2,
-        "price": 54.99,
-        "priceAfterDiscount": 49.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory3.jpg",
-                "publicId": "accessory3_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b531f6352973c753e71cf",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Logitech MX Master 3S Mouse",
-        "description": "This is the description for Tech Accessory 4. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 103,
-        "sold": 3,
-        "price": 56.99,
-        "priceAfterDiscount": 51.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory4.jpg",
-                "publicId": "accessory4_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c868ad863accf00353d7e",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Anker PowerCore 20,000mAh Power Bank",
-        "description": "This is the description for Tech Accessory 5. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 104,
-        "sold": 4,
-        "price": 58.99,
-        "priceAfterDiscount": 53.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory5.jpg",
-                "publicId": "accessory5_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c7dfb2266917026c52411",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Belkin Wireless Charging Pad",
-        "description": "This is the description for Tech Accessory 6. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 105,
-        "sold": 5,
-        "price": 60.99,
-        "priceAfterDiscount": 55.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory6.jpg",
-                "publicId": "accessory6_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c86dee9bc7ba6de765381",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "SanDisk Extreme Pro SSD",
-        "description": "This is the description for Tech Accessory 7. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 106,
-        "sold": 6,
-        "price": 62.99,
-        "priceAfterDiscount": 57.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory7.jpg",
-                "publicId": "accessory7_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c86f81ff7a9e280ab45b8",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Razer BlackWidow V3 Keyboard",
-        "description": "This is the description for Tech Accessory 8. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 107,
-        "sold": 7,
-        "price": 64.99000000000001,
-        "priceAfterDiscount": 59.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory8.jpg",
-                "publicId": "accessory8_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2b6598ae08824ff13e37",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "HyperX Cloud II Gaming Headset",
-        "description": "This is the description for Tech Accessory 9. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 108,
-        "sold": 8,
-        "price": 66.99000000000001,
-        "priceAfterDiscount": 61.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory9.jpg",
-                "publicId": "accessory9_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c87b0d6323f7e25d69b18",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Jabra Elite 85t Earbuds",
-        "description": "This is the description for Tech Accessory 10. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 109,
-        "sold": 9,
-        "price": 68.99000000000001,
-        "priceAfterDiscount": 63.99,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory10.jpg",
-                "publicId": "accessory10_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c87c74909063368425d37",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Corsair K95 RGB Platinum XT Keyboard",
-        "description": "This is the description for Tech Accessory 11. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 110,
-        "sold": 10,
-        "price": 70.99000000000001,
-        "priceAfterDiscount": 65.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory11.jpg",
-                "publicId": "accessory11_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c87db362600ff8991592a",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Amazon Echo Dot (5th Gen)",
-        "description": "This is the description for Tech Accessory 12. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 111,
-        "sold": 11,
-        "price": 72.99000000000001,
-        "priceAfterDiscount": 67.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory12.jpg",
-                "publicId": "accessory12_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b5822feb2dce87ea4a698",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Google Nest Hub (2nd Gen)",
-        "description": "This is the description for Tech Accessory 13. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 112,
-        "sold": 12,
-        "price": 74.99000000000001,
-        "priceAfterDiscount": 69.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory13.jpg",
-                "publicId": "accessory13_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c8194d187c9fc61aac573",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Tile Mate Bluetooth Tracker",
-        "description": "This is the description for Tech Accessory 14. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 113,
-        "sold": 13,
-        "price": 76.99000000000001,
-        "priceAfterDiscount": 71.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory14.jpg",
-                "publicId": "accessory14_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c882bfbe9c823f9b6b263",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Kingston DataTraveler USB 64GB",
-        "description": "This is the description for Tech Accessory 15. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 114,
-        "sold": 14,
-        "price": 78.99000000000001,
-        "priceAfterDiscount": 73.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory15.jpg",
-                "publicId": "accessory15_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c884238baae398fbeea5c",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Apple MagSafe Charger",
-        "description": "This is the description for Tech Accessory 16. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 115,
-        "sold": 15,
-        "price": 80.99000000000001,
-        "priceAfterDiscount": 75.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory16.jpg",
-                "publicId": "accessory16_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2ae49d10dee7ca8b4bc4",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Samsung T7 Portable SSD",
-        "description": "This is the description for Tech Accessory 17. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 116,
-        "sold": 16,
-        "price": 82.99000000000001,
-        "priceAfterDiscount": 77.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory17.jpg",
-                "publicId": "accessory17_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2b8598ae08824ff13e3b",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Dell UltraSharp Webcam",
-        "description": "This is the description for Tech Accessory 18. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 117,
-        "sold": 17,
-        "price": 84.99000000000001,
-        "priceAfterDiscount": 79.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory18.jpg",
-                "publicId": "accessory18_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2acf9d10dee7ca8b4bc2",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "BenQ ScreenBar Plus Monitor Light",
-        "description": "This is the description for Tech Accessory 19. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 118,
-        "sold": 18,
-        "price": 86.99000000000001,
-        "priceAfterDiscount": 81.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory19.jpg",
-                "publicId": "accessory19_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c8871bb0296cb013a1841",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Microsoft Surface Pen",
-        "description": "This is the description for Tech Accessory 20. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 119,
-        "sold": 19,
-        "price": 88.99000000000001,
-        "priceAfterDiscount": 83.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory20.jpg",
-                "publicId": "accessory20_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2b570fea54abd4b34f89",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Logitech StreamCam",
-        "description": "This is the description for Tech Accessory 21. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 120,
-        "sold": 20,
-        "price": 90.99000000000001,
-        "priceAfterDiscount": 85.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory21.jpg",
-                "publicId": "accessory21_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c868ad863accf00353d7e",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Roku Streaming Stick 4K",
-        "description": "This is the description for Tech Accessory 22. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 121,
-        "sold": 21,
-        "price": 92.99000000000001,
-        "priceAfterDiscount": 87.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory22.jpg",
-                "publicId": "accessory22_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c88923e70ee518023ad2c",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "TP-Link WiFi Range Extender",
-        "description": "This is the description for Tech Accessory 23. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 122,
-        "sold": 22,
-        "price": 94.99000000000001,
-        "priceAfterDiscount": 89.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory23.jpg",
-                "publicId": "accessory23_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c88aa3192932e4d432ffa",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Philips Hue Lightstrip Plus",
-        "description": "This is the description for Tech Accessory 24. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 123,
-        "sold": 23,
-        "price": 96.99000000000001,
-        "priceAfterDiscount": 91.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory24.jpg",
-                "publicId": "accessory24_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c7960e284fc76e215e928",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Seagate Expansion Portable HDD",
-        "description": "This is the description for Tech Accessory 25. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 124,
-        "sold": 24,
-        "price": 98.99000000000001,
-        "priceAfterDiscount": 93.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory25.jpg",
-                "publicId": "accessory25_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c88dcb222360ec379036e",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Bose SoundLink Mini II Bluetooth Speaker",
-        "description": "This is the description for Tech Accessory 26. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 125,
-        "sold": 25,
-        "price": 100.99000000000001,
-        "priceAfterDiscount": 95.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory26.jpg",
-                "publicId": "accessory26_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c7dd210719dee2b3c346a",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Oculus Quest 2 VR Headset",
-        "description": "This is the description for Tech Accessory 27. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 126,
-        "sold": 26,
-        "price": 102.99000000000001,
-        "priceAfterDiscount": 97.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory27.jpg",
-                "publicId": "accessory27_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c890828f95f72f5ea773c",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Canon Ivy Mini Photo Printer",
-        "description": "This is the description for Tech Accessory 33. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 132,
-        "sold": 32,
-        "price": 114.99000000000001,
-        "priceAfterDiscount": 109.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory33.jpg",
-                "publicId": "accessory33_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b52e76352973c753e71cb",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Kobo Libra 2 eReader",
-        "description": "This is the description for Tech Accessory 37. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 136,
-        "sold": 36,
-        "price": 122.99000000000001,
-        "priceAfterDiscount": 117.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory37.jpg",
-                "publicId": "accessory37_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c89e923734eb90021ec33",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Anker Soundcore Motion+ Speaker",
-        "description": "This is the description for Tech Accessory 38. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 137,
-        "sold": 37,
-        "price": 124.99000000000001,
-        "priceAfterDiscount": 119.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory38.jpg",
-                "publicId": "accessory38_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c7dfb2266917026c52411",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "RAVPower USB-C Charger",
-        "description": "This is the description for Tech Accessory 39. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 138,
-        "sold": 38,
-        "price": 126.99000000000001,
-        "priceAfterDiscount": 121.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory39.jpg",
-                "publicId": "accessory39_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673c89ffdf5391f725103318",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    },
-    {
-        "title": "Lenovo ThinkPad USB-C Dock",
-        "description": "This is the description for Tech Accessory 40. It is a high-quality product designed for modern technology enthusiasts.",
-        "quantity": 139,
-        "sold": 39,
-        "price": 128.99,
-        "priceAfterDiscount": 123.99000000000001,
-        "colors": [
-            "Black",
-            "White",
-            "Gray"
-        ],
-        "images": [
-            {
-                "url": "https://example.com/images/accessory40.jpg",
-                "publicId": "accessory40_id"
-            }
-        ],
-        "category": "673c8a3f348115fea6058c25",
-        "brand": "673b2af29d10dee7ca8b4bc6",
-        "ratingsAverage": 4.5,
-        "ratingsQuantity": 150,
-        "specifications": {
-            "Weight": "200g",
-            "Material": "Aluminum",
-            "Compatibility": "Universal"
-        }
-    }
+      "category": "64a87e6a3b5f4a00123b4572",
+      "brand": "64a87e6a3b5f4a00123b4574",
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 1500,
+      "specifications": {
+          "Compatibility": "Universal",
+          "Warranty": "2 years"
+      }
+  }
 ]
