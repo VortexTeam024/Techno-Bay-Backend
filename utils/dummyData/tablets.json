@@ -7,12 +7,7 @@
     "price": 1500,
     "priceAfterDiscount": 1380,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/ipad_pro_12.9.jpg",
-        "publicId": "ipad_pro_12.9"
-      }
-    ],
+    "images": "../../Products_images/Tablets/iPad_Pro_12.9.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b2ae49d10dee7ca8b4bc4",
     "ratingsAverage": 4.0,
@@ -33,12 +28,7 @@
     "price": 1550,
     "priceAfterDiscount": 1425,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/samsung_galaxy_tab_s9.jpg",
-        "publicId": "samsung_galaxy_tab_s9"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Samsung_Galaxy_Tab_S9.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b2b8598ae08824ff13e3b",
     "ratingsAverage": 4.1,
@@ -59,12 +49,7 @@
     "price": 1700,
     "priceAfterDiscount": 1560,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/lenovo_tab_p11_pro.jpg",
-        "publicId": "lenovo_tab_p11_pro"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Lenovo_Tab_P11_Pro.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b2af29d10dee7ca8b4bc6",
     "ratingsAverage": 4.4,
@@ -85,12 +70,7 @@
     "price": 1750,
     "priceAfterDiscount": 1605,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/huawei_matepad_pro.jpg",
-        "publicId": "huawei_matepad_pro"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Huawei_MatePad_Pro.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b2b9198ae08824ff13e3d",
     "ratingsAverage": 4.0,
@@ -111,12 +91,7 @@
     "price": 1800,
     "priceAfterDiscount": 1650,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/xiaomi_pad_6.jpg",
-        "publicId": "xiaomi_pad_6"
-      }
-    ],
+    "images":"../../Products_images/Tablets/Xiaomi_Pad_6.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b58def5a8d6f609efce82",
     "ratingsAverage": 4.1,
@@ -137,12 +112,7 @@
     "price": 1900,
     "priceAfterDiscount": 1740,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/realme_pad_x.jpg",
-        "publicId": "realme_pad_x"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Realme_Pad_X.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b59408fd30259dfb4d02d",
     "ratingsAverage": 4.3,
@@ -163,12 +133,7 @@
     "price": 2050,
     "priceAfterDiscount": 1875,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/samsung_galaxy_tab_a8.jpg",
-        "publicId": "samsung_galaxy_tab_a8"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Samsung_Galaxy_Tab_A8.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b2b8598ae08824ff13e3b",
     "ratingsAverage": 4.1,
@@ -189,12 +154,7 @@
     "price": 2200,
     "priceAfterDiscount": 2010,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/lenovo_yoga_tab_13.jpg",
-        "publicId": "lenovo_yoga_tab_13"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Lenovo_Yoga_Tab_13.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b2af29d10dee7ca8b4bc6",
     "ratingsAverage": 4.4,
@@ -215,12 +175,7 @@
     "price": 2250,
     "priceAfterDiscount": 2055,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/huawei_mediapad_t5.jpg",
-        "publicId": "huawei_mediapad_t5"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Huawei_MediaPad_T5.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b2b9198ae08824ff13e3d",
     "ratingsAverage": 4.0,
@@ -241,12 +196,7 @@
     "price": 2350,
     "priceAfterDiscount": 2145,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/xiaomi_mi_pad_5.jpg",
-        "publicId": "xiaomi_mi_pad_5"
-      }
-    ],
+    "images": "../../Products_images/Tablets/Xiaomi_Mi_Pad_5.jpeg",
     "category": "673b56b8c2196f97038bca11",
     "brand": "673b58def5a8d6f609efce82",
     "ratingsAverage": 4.2,

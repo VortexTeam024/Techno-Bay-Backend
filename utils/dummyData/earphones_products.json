@@ -12,12 +12,7 @@
           "Blue",
           "Pink"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_1.jpg",
-              "publicId": "earphone_1_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/Sony_WF-1000XM4.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673b531f6352973c753e71cf",
       "ratingsAverage": 4.2,
@@ -45,12 +40,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_2.jpg",
-              "publicId": "earphone_2_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/JBL_Live_Free_NC+.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673c7d06d9028c1bf30d268f",
       "ratingsAverage": 4.4,
@@ -79,12 +69,7 @@
           "Blue",
           "Pink"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_3.jpg",
-              "publicId": "earphone_3_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/Apple_AirPods_Pro_2nd_Gen.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673b2ae49d10dee7ca8b4bc4",
       "ratingsAverage": 4.2,
@@ -112,12 +97,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_4.jpg",
-              "publicId": "earphone_4_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/Beats_Fit_Pro.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673c7d9e1edbe17bfbd45b61",
       "ratingsAverage": 4.4,
@@ -146,12 +126,7 @@
           "Blue",
           "Pink"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_5.jpg",
-              "publicId": "earphone_5_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/Sony_LinkBuds_S.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673b531f6352973c753e71cf",
       "ratingsAverage": 4.2,
@@ -179,12 +154,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_6.jpg",
-              "publicId": "earphone_6_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/JBL_Tune_230NC_TWS.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673c7d06d9028c1bf30d268f",
       "ratingsAverage": 4.4,
@@ -213,12 +183,7 @@
           "Blue",
           "Pink"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_7.jpg",
-              "publicId": "earphone_7_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/Apple_AirPods_Max.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673b2ae49d10dee7ca8b4bc4",
       "ratingsAverage": 4.2,
@@ -246,12 +211,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_8.jpg",
-              "publicId": "earphone_8_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/Beats_Studio_Buds.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673c7d9e1edbe17bfbd45b61",
       "ratingsAverage": 4.4,
@@ -280,12 +240,7 @@
           "Blue",
           "Pink"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_9.jpg",
-              "publicId": "earphone_9_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/Sony_WF-C500.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673b531f6352973c753e71cf",
       "ratingsAverage": 4.2,
@@ -313,12 +268,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/earphone_10.jpg",
-              "publicId": "earphone_10_img"
-          }
-      ],
+      "images": "../../Products_images/EarPhones/JBL_Endurance_Peak_3.jpeg",
       "category": "673c7ed9334c60461d7f7f69",
       "brand": "673c7d06d9028c1bf30d268f",
       "ratingsAverage": 4.4,

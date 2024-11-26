@@ -9,16 +9,7 @@
       "colors": [
           "Black"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/iPhone_14_Pro_Max_front.jpg",
-              "publicId": "iPhone_14_Pro_Max_front"
-          },
-          {
-              "url": "https://example.com/images/iPhone_14_Pro_Max_back.jpg",
-              "publicId": "iPhone_14_Pro_Max_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/iPhone_14_Pro_Max.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b2ae49d10dee7ca8b4bc4",
       "ratingsAverage": 3.5,
@@ -42,16 +33,7 @@
           "Black",
           "White"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Samsung_Galaxy_S23_Ultra_front.jpg",
-              "publicId": "Samsung_Galaxy_S23_Ultra_front"
-          },
-          {
-              "url": "https://example.com/images/Samsung_Galaxy_S23_Ultra_back.jpg",
-              "publicId": "Samsung_Galaxy_S23_Ultra_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Samsung_Galaxy_S23_Ultra.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b2b8598ae08824ff13e3b",
       "ratingsAverage": 3.8,
@@ -76,16 +58,7 @@
           "White",
           "Blue"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Huawei_Mate_50_Pro_front.jpg",
-              "publicId": "Huawei_Mate_50_Pro_front"
-          },
-          {
-              "url": "https://example.com/images/Huawei_Mate_50_Pro_back.jpg",
-              "publicId": "Huawei_Mate_50_Pro_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Huawei_Mate_50_Pro.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b2b9198ae08824ff13e3d",
       "ratingsAverage": 3.8,
@@ -108,16 +81,7 @@
       "colors": [
           "Black"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Vivo_X90_Pro+_front.jpg",
-              "publicId": "Vivo_X90_Pro+_front"
-          },
-          {
-              "url": "https://example.com/images/Vivo_X90_Pro+_back.jpg",
-              "publicId": "Vivo_X90_Pro+_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Vivo_X90_Pro+.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b5f4525a9d98447205600",
       "ratingsAverage": 4.4,
@@ -141,16 +105,7 @@
           "Black",
           "White"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Xiaomi_Redmi_Note_12_Pro_front.jpg",
-              "publicId": "Xiaomi_Redmi_Note_12_Pro_front"
-          },
-          {
-              "url": "https://example.com/images/Xiaomi_Redmi_Note_12_Pro_back.jpg",
-              "publicId": "Xiaomi_Redmi_Note_12_Pro_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Xiaomi_Redmi_Note_12_Pro.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b58def5a8d6f609efce82",
       "ratingsAverage": 4.1,
@@ -175,16 +130,7 @@
           "White",
           "Blue"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Oppo_Reno_10_Pro_front.jpg",
-              "publicId": "Oppo_Reno_10_Pro_front"
-          },
-          {
-              "url": "https://example.com/images/Oppo_Reno_10_Pro_back.jpg",
-              "publicId": "Oppo_Reno_10_Pro_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Oppo_Reno_10_Pro.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b5effe3f780ddd8810354",
       "ratingsAverage": 4.1,
@@ -210,16 +156,7 @@
           "Blue",
           "Gold"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Vivo_V29_front.jpg",
-              "publicId": "Vivo_V29_front"
-          },
-          {
-              "url": "https://example.com/images/Vivo_V29_back.jpg",
-              "publicId": "Vivo_V29_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Vivo_V29.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b5f4525a9d98447205600",
       "ratingsAverage": 4.4,
@@ -245,16 +182,7 @@
           "Blue",
           "Gold"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Samsung_Galaxy_A54_front.jpg",
-              "publicId": "Samsung_Galaxy_A54_front"
-          },
-          {
-              "url": "https://example.com/images/Samsung_Galaxy_A54_back.jpg",
-              "publicId": "Samsung_Galaxy_A54_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Samsung_Galaxy_A54.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b2b8598ae08824ff13e3b",
       "ratingsAverage": 3.8,
@@ -278,16 +206,7 @@
           "Black",
           "White"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Oppo_A98_front.jpg",
-              "publicId": "Oppo_A98_front"
-          },
-          {
-              "url": "https://example.com/images/Oppo_A98_back.jpg",
-              "publicId": "Oppo_A98_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Oppo_A98.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b5effe3f780ddd8810354",
       "ratingsAverage": 4.1,
@@ -313,16 +232,7 @@
           "Blue",
           "Gold"
       ],
-      "images": [
-          {
-              "url": "https://example.com/images/Realme_C55_front.jpg",
-              "publicId": "Realme_C55_front"
-          },
-          {
-              "url": "https://example.com/images/Realme_C55_back.jpg",
-              "publicId": "Realme_C55_back"
-          }
-      ],
+      "images": "../../Products_images/Phones/Realme_C55.jpeg",
       "category": "673b5c1f4ba9e20365e2ade2",
       "brand": "673b59408fd30259dfb4d02d",
       "ratingsAverage": 4.7,

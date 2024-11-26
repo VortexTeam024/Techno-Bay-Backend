@@ -17,7 +17,7 @@ connectToDB();
 
 const insertData = async () => {
   try{
-    const products = JSON.parse(fs.readFileSync(path.join(__dirname, './utils/dummyData/laptops.json'), 'utf-8'));
+    const products = JSON.parse(fs.readFileSync(path.join(__dirname, './utils/dummyData/tech_accessories.json'), 'utf-8'));
   
     for (let product of products) {
       const imageUrl = await cloudinaryUploadImage(product.images);

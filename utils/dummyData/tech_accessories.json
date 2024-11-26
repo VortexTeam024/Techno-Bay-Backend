@@ -10,16 +10,7 @@
           "Black",
           "White"
       ],
-      "images": [
-          {
-              "url": "https://example.com/anker_powercore_1.jpg",
-              "publicId": "anker_powercore_1"
-          },
-          {
-              "url": "https://example.com/anker_powercore_2.jpg",
-              "publicId": "anker_powercore_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/Anker_PowerCore_10000.jpg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c7dfb2266917026c52411",
       "ratingsAverage": 4.7,
@@ -40,16 +31,7 @@
           "Graphite",
           "Midnight Blue"
       ],
-      "images": [
-          {
-              "url": "https://example.com/logitech_mx_master_1.jpg",
-              "publicId": "logitech_mx_master_1"
-          },
-          {
-              "url": "https://example.com/logitech_mx_master_2.jpg",
-              "publicId": "logitech_mx_master_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/Logitech_MX_Master_3.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c868ad863accf00353d7e",
       "ratingsAverage": 4.8,
@@ -71,16 +53,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/jbl_accessory_3_1.jpg",
-              "publicId": "jbl_accessory_3_1"
-          },
-          {
-              "url": "https://example.com/jbl_accessory_3_2.jpg",
-              "publicId": "jbl_accessory_3_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/JBL_Accessory_3.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c7d06d9028c1bf30d268f",
       "ratingsAverage": 4.5,
@@ -102,16 +75,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/belkin_accessory_4_1.jpg",
-              "publicId": "belkin_accessory_4_1"
-          },
-          {
-              "url": "https://example.com/belkin_accessory_4_2.jpg",
-              "publicId": "belkin_accessory_4_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/Belkin_Accessory_4.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c86dee9bc7ba6de765381",
       "ratingsAverage": 4.5,
@@ -133,16 +97,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/anker_accessory_5_1.jpg",
-              "publicId": "anker_accessory_5_1"
-          },
-          {
-              "url": "https://example.com/anker_accessory_5_2.jpg",
-              "publicId": "anker_accessory_5_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/Anker_Accessory_5.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c7dfb2266917026c52411",
       "ratingsAverage": 4.5,
@@ -164,16 +119,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/logitech_accessory_6_1.jpg",
-              "publicId": "logitech_accessory_6_1"
-          },
-          {
-              "url": "https://example.com/logitech_accessory_6_2.jpg",
-              "publicId": "logitech_accessory_6_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/Logitech_Accessory_6.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c868ad863accf00353d7e",
       "ratingsAverage": 4.5,
@@ -195,16 +141,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/jbl_accessory_7_1.jpg",
-              "publicId": "jbl_accessory_7_1"
-          },
-          {
-              "url": "https://example.com/jbl_accessory_7_2.jpg",
-              "publicId": "jbl_accessory_7_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/JBL_Accessory_7.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c7d06d9028c1bf30d268f",
       "ratingsAverage": 4.5,
@@ -226,16 +163,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/belkin_accessory_8_1.jpg",
-              "publicId": "belkin_accessory_8_1"
-          },
-          {
-              "url": "https://example.com/belkin_accessory_8_2.jpg",
-              "publicId": "belkin_accessory_8_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/Belkin_Accessory_8.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c86dee9bc7ba6de765381",
       "ratingsAverage": 4.5,
@@ -257,16 +185,7 @@
           "Silver",
           "Red"
       ],
-      "images": [
-          {
-              "url": "https://example.com/anker_accessory_9_1.jpg",
-              "publicId": "anker_accessory_9_1"
-          },
-          {
-              "url": "https://example.com/anker_accessory_9_2.jpg",
-              "publicId": "anker_accessory_9_2"
-          }
-      ],
+      "images": "../../Products_images/Accessories/Anker_Accessory_5.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c7dfb2266917026c52411",
       "ratingsAverage": 4.5,
@@ -288,10 +207,7 @@
           "Silver",
           "Red"
       ],
-      "images": {
-        "url": "https://example.com/logitech_accessory_10_1.jpg",
-        "publicId": "logitech_accessory_10_1"
-    },
+      "images": "../../Products_images/Accessories/Logitech_Accessory_6.jpeg",
       "category": "673c8a3f348115fea6058c25",
       "brand": "673c868ad863accf00353d7e",
       "ratingsAverage": 4.5,

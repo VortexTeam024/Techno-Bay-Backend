@@ -7,16 +7,7 @@
     "price": 39999,
     "priceAfterDiscount": 37999,
     "colors": ["Silver", "Gold", "Space Gray"],
-    "images": [
-      {
-        "url": "https://example.com/apple_watch_9_1.jpg",
-        "publicId": "apple_watch_9_1"
-      },
-      {
-        "url": "https://example.com/apple_watch_9_2.jpg",
-        "publicId": "apple_watch_9_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Apple_Watch_Series_9.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2ae49d10dee7ca8b4bc4",
     "ratingsAverage": 4.8,
@@ -34,16 +25,7 @@
     "price": 34999,
     "priceAfterDiscount": 32999,
     "colors": ["Black", "Silver", "Green"],
-    "images": [
-      {
-        "url": "https://example.com/galaxy_watch_6_1.jpg",
-        "publicId": "galaxy_watch_6_1"
-      },
-      {
-        "url": "https://example.com/galaxy_watch_6_2.jpg",
-        "publicId": "galaxy_watch_6_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Samsung_Galaxy_Watch_6.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2b8598ae08824ff13e3b",
     "ratingsAverage": 4.6,
@@ -61,16 +43,7 @@
     "price": 31499,
     "priceAfterDiscount": 30199,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/huawei_watch_3_1.jpg",
-        "publicId": "huawei_watch_3_1"
-      },
-      {
-        "url": "https://example.com/huawei_watch_3_2.jpg",
-        "publicId": "huawei_watch_3_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Huawei_Smartwatch_3.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2b9198ae08824ff13e3d",
     "ratingsAverage": 4.5,
@@ -88,16 +61,7 @@
     "price": 31999,
     "priceAfterDiscount": 30599,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/oppo_watch_4_1.jpg",
-        "publicId": "oppo_watch_4_1"
-      },
-      {
-        "url": "https://example.com/oppo_watch_4_2.jpg",
-        "publicId": "oppo_watch_4_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Oppo_Smartwatch_4.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b5effe3f780ddd8810354",
     "ratingsAverage": 4.5,
@@ -115,16 +79,7 @@
     "price": 32499,
     "priceAfterDiscount": 30999,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/apple_watch_5_1.jpg",
-        "publicId": "apple_watch_5_1"
-      },
-      {
-        "url": "https://example.com/apple_watch_5_2.jpg",
-        "publicId": "apple_watch_5_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Apple_Smartwatch_5.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2ae49d10dee7ca8b4bc4",
     "ratingsAverage": 4.5,
@@ -142,16 +97,7 @@
     "price": 32999,
     "priceAfterDiscount": 31399,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/samsung_watch_6_1.jpg",
-        "publicId": "samsung_watch_6_1"
-      },
-      {
-        "url": "https://example.com/samsung_watch_6_2.jpg",
-        "publicId": "samsung_watch_6_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Samsung_Galaxy_Watch_6.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2b8598ae08824ff13e3b",
     "ratingsAverage": 4.5,
@@ -169,16 +115,7 @@
     "price": 33499,
     "priceAfterDiscount": 31799,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/huawei_watch_7_1.jpg",
-        "publicId": "huawei_watch_7_1"
-      },
-      {
-        "url": "https://example.com/huawei_watch_7_2.jpg",
-        "publicId": "huawei_watch_7_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Huawei_Smartwatch_7.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2b9198ae08824ff13e3d",
     "ratingsAverage": 4.5,
@@ -196,16 +133,7 @@
     "price": 33999,
     "priceAfterDiscount": 32199,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/oppo_watch_8_1.jpg",
-        "publicId": "oppo_watch_8_1"
-      },
-      {
-        "url": "https://example.com/oppo_watch_8_2.jpg",
-        "publicId": "oppo_watch_8_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Oppo_Smartwatch_8.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b5effe3f780ddd8810354",
     "ratingsAverage": 4.5,
@@ -223,16 +151,7 @@
     "price": 34499,
     "priceAfterDiscount": 32599,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/apple_watch_9_1.jpg",
-        "publicId": "apple_watch_9_1"
-      },
-      {
-        "url": "https://example.com/apple_watch_9_2.jpg",
-        "publicId": "apple_watch_9_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Apple_Smartwatch_9.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2ae49d10dee7ca8b4bc4",
     "ratingsAverage": 4.5,
@@ -250,16 +169,7 @@
     "price": 34999,
     "priceAfterDiscount": 32999,
     "colors": ["Black", "White", "Blue"],
-    "images": [
-      {
-        "url": "https://example.com/samsung_watch_10_1.jpg",
-        "publicId": "samsung_watch_10_1"
-      },
-      {
-        "url": "https://example.com/samsung_watch_10_2.jpg",
-        "publicId": "samsung_watch_10_2"
-      }
-    ],
+    "images": "../../Products_images/SmartWatches/Samsung_Galaxy_Watch_6.jpeg",
     "category": "673c84f25724c7f4d9b79778",
     "brand": "673b2b8598ae08824ff13e3b",
     "ratingsAverage": 4.5,

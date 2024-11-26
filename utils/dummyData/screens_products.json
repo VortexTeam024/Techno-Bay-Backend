@@ -11,16 +11,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Samsung_Smart_TV_32_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673b2b8598ae08824ff13e3b",
         "ratingsAverage": 4.0,
@@ -45,16 +36,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/LG_Smart_TV_40_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673b2b6c98ae08824ff13e39",
         "ratingsAverage": 4.1,
@@ -79,16 +61,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Sony_Smart_TV_48_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673b531f6352973c753e71cf",
         "ratingsAverage": 4.2,
@@ -113,16 +86,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Toshiba_Smart_TV_56_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673c7637771ff8f0d642fecf",
         "ratingsAverage": 4.3,
@@ -147,16 +111,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Union_Air_Smart_TV_64_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673c77651e7ead62568b4a10",
         "ratingsAverage": 4.4,
@@ -181,16 +136,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Panasonic_Smart_TV_40_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673b533b6352973c753e71d3",
         "ratingsAverage": 4.6,
@@ -215,16 +161,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Samsung_Smart_TV_32_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673b2b8598ae08824ff13e3b",
         "ratingsAverage": 4.0,
@@ -249,16 +186,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/LG_Smart_TV_40_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673b2b6c98ae08824ff13e39",
         "ratingsAverage": 4.1,
@@ -283,16 +211,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images":"../../Products_images/TVs/Toshiba_Smart_TV_56_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673c7637771ff8f0d642fecf",
         "ratingsAverage": 4.3,
@@ -317,16 +236,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Union_Air_Smart_TV_64_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673c77651e7ead62568b4a10",
         "ratingsAverage": 4.4,
@@ -351,16 +261,7 @@
             "Silver",
             "Gray"
         ],
-        "images": [
-            {
-                "url": "https://example.com/image1.jpg",
-                "publicId": "image1"
-            },
-            {
-                "url": "https://example.com/image2.jpg",
-                "publicId": "image2"
-            }
-        ],
+        "images": "../../Products_images/TVs/Hisense_Smart_TV_56_inch.jpeg",
         "category": "673c7c58d9303d38f1ee663f",
         "brand": "673c79c774c13862cb959c54",
         "ratingsAverage": 4.8,

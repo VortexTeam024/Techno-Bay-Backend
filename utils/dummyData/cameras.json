@@ -7,12 +7,7 @@
     "price": 500,
     "priceAfterDiscount": 480,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/canon_eos_r5.jpg",
-        "publicId": "canon_eos_r5"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Canon_EOS_R5.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b52e76352973c753e71cb",
     "ratingsAverage": 4.0,
@@ -33,12 +28,7 @@
     "price": 600,
     "priceAfterDiscount": 570,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/sony_alpha_7_iv.jpg",
-        "publicId": "sony_alpha_7_iv"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Sony_Alpha_7_IV.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b531f6352973c753e71cf",
     "ratingsAverage": 4.2,
@@ -59,12 +49,7 @@
     "price": 650,
     "priceAfterDiscount": 615,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/fujifilm_x-t5.jpg",
-        "publicId": "fujifilm_x-t5"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Fujifilm_X-T5.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b532d6352973c753e71d1",
     "ratingsAverage": 4.3,
@@ -85,12 +70,7 @@
     "price": 700,
     "priceAfterDiscount": 660,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/panasonic_lumix_gh6.jpg",
-        "publicId": "panasonic_lumix_gh6"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Panasonic_Lumix_GH6.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b533b6352973c753e71d3",
     "ratingsAverage": 4.4,
@@ -111,12 +91,7 @@
     "price": 850,
     "priceAfterDiscount": 795,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/gopro_hero_11.jpg",
-        "publicId": "gopro_hero_11"
-      }
-    ],
+    "images": "../../Products_images/Cameras/GoPro_Hero_11.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b537e6352973c753e71d9",
     "ratingsAverage": 4.2,
@@ -137,12 +112,7 @@
     "price": 900,
     "priceAfterDiscount": 840,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/dji_pocket_2.jpg",
-        "publicId": "dji_pocket_2"
-      }
-    ],
+    "images": "../../Products_images/Cameras/DJI_Pocket_2.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b53906352973c753e71db",
     "ratingsAverage": 4.3,
@@ -163,12 +133,7 @@
     "price": 1000,
     "priceAfterDiscount": 930,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/canon_eos_90d.jpg",
-        "publicId": "canon_eos_90d"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Canon_EOS_90D.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b52e76352973c753e71cb",
     "ratingsAverage": 4.0,
@@ -189,12 +154,7 @@
     "price": 1100,
     "priceAfterDiscount": 1020,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/sony_rx100_vii.jpg",
-        "publicId": "sony_rx100_vii"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Sony_RX100_VII.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b531f6352973c753e71cf",
     "ratingsAverage": 4.2,
@@ -215,12 +175,7 @@
     "price": 1150,
     "priceAfterDiscount": 1065,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/fujifilm_gfx_100s.jpg",
-        "publicId": "fujifilm_gfx_100s"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Fujifilm_GFX_100S.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b532d6352973c753e71d1",
     "ratingsAverage": 4.3,
@@ -241,12 +196,7 @@
     "price": 1200,
     "priceAfterDiscount": 1110,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/panasonic_lumix_s5.jpg",
-        "publicId": "panasonic_lumix_s5"
-      }
-    ],
+    "images": "../../Products_images/Cameras/Panasonic_Lumix_S5.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b533b6352973c753e71d3",
     "ratingsAverage": 4.4,
@@ -267,12 +217,7 @@
     "price": 1350,
     "priceAfterDiscount": 1245,
     "colors": ["Black", "Silver", "White"],
-    "images": [
-      {
-        "url": "https://example.com/images/gopro_max.jpg",
-        "publicId": "gopro_max"
-      }
-    ],
+    "images": "../../Products_images/Cameras/GoPro_Max.jpeg",
     "category": "673b529f081e6620d65ae0c1",
     "brand": "673b537e6352973c753e71d9",
     "ratingsAverage": 4.2,

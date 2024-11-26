@@ -11,16 +11,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop1_1.jpg",
-        "publicId": "laptop1_1"
-      },
-      {
-        "url": "https://example.com/images/laptop1_2.jpg",
-        "publicId": "laptop1_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Dell_XPS_13.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2acf9d10dee7ca8b4bc2",
     "ratingsAverage": 4.0,
@@ -45,16 +36,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop2_1.jpg",
-        "publicId": "laptop2_1"
-      },
-      {
-        "url": "https://example.com/images/laptop2_2.jpg",
-        "publicId": "laptop2_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Apple_MacBook_Air_M2.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2ae49d10dee7ca8b4bc4",
     "ratingsAverage": 3.5,
@@ -79,16 +61,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop3_1.jpg",
-        "publicId": "laptop3_1"
-      },
-      {
-        "url": "https://example.com/images/laptop3_2.jpg",
-        "publicId": "laptop3_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/HP_Spectre_x360.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2b300fea54abd4b34f86",
     "ratingsAverage": 4.0,
@@ -113,16 +86,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop4_1.jpg",
-        "publicId": "laptop4_1"
-      },
-      {
-        "url": "https://example.com/images/laptop4_2.jpg",
-        "publicId": "laptop4_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Lenovo_ThinkPad_X1_Carbon.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2af29d10dee7ca8b4bc6",
     "ratingsAverage": 3.5,
@@ -147,16 +111,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop5_1.jpg",
-        "publicId": "laptop5_1"
-      },
-      {
-        "url": "https://example.com/images/laptop5_2.jpg",
-        "publicId": "laptop5_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Asus_ROG_Zephyrus_G14.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2afc9d10dee7ca8b4bc8",
     "ratingsAverage": 4.0,
@@ -181,16 +136,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop10_1.jpg",
-        "publicId": "laptop10_1"
-      },
-      {
-        "url": "https://example.com/images/laptop10_2.jpg",
-        "publicId": "laptop10_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Samsung_Galaxy_Book_Pro_360.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2b8598ae08824ff13e3b",
     "ratingsAverage": 3.5,
@@ -215,16 +161,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop11_1.jpg",
-        "publicId": "laptop11_1"
-      },
-      {
-        "url": "https://example.com/images/laptop11_2.jpg",
-        "publicId": "laptop11_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Huawei_MateBook_X_Pro.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2b9198ae08824ff13e3d",
     "ratingsAverage": 4.0,
@@ -249,16 +186,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop14_1.jpg",
-        "publicId": "laptop14_1"
-      },
-      {
-        "url": "https://example.com/images/laptop14_2.jpg",
-        "publicId": "laptop14_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Asus_ZenBook_Duo_14.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2afc9d10dee7ca8b4bc8",
     "ratingsAverage": 3.5,
@@ -283,16 +211,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop15_1.jpg",
-        "publicId": "laptop15_1"
-      },
-      {
-        "url": "https://example.com/images/laptop15_2.jpg",
-        "publicId": "laptop15_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Dell_Inspiron_15.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2acf9d10dee7ca8b4bc2",
     "ratingsAverage": 4.0,
@@ -317,16 +236,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop16_1.jpg",
-        "publicId": "laptop16_1"
-      },
-      {
-        "url": "https://example.com/images/laptop16_2.jpg",
-        "publicId": "laptop16_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Apple_MacBook_Pro_14.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2ae49d10dee7ca8b4bc4",
     "ratingsAverage": 3.5,
@@ -351,16 +261,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop17_1.jpg",
-        "publicId": "laptop17_1"
-      },
-      {
-        "url": "https://example.com/images/laptop17_2.jpg",
-        "publicId": "laptop17_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/HP_Pavilion_14.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2b300fea54abd4b34f86",
     "ratingsAverage": 4.0,
@@ -385,16 +286,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop34_1.jpg",
-        "publicId": "laptop34_1"
-      },
-      {
-        "url": "https://example.com/images/laptop34_2.jpg",
-        "publicId": "laptop34_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/Lenovo_Legion_5_Pro.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2af29d10dee7ca8b4bc6",
     "ratingsAverage": 3.5,
@@ -419,16 +311,7 @@
       "Silver",
       "Gray"
     ],
-    "images": [
-      {
-        "url": "https://example.com/images/laptop40_1.jpg",
-        "publicId": "laptop40_1"
-      },
-      {
-        "url": "https://example.com/images/laptop40_2.jpg",
-        "publicId": "laptop40_2"
-      }
-    ],
+    "images": "../../Products_images/Laptops/HP_ZBook_Studio_G8.jpeg",
     "category": "673b28bfc2ac4112b7d8aeba",
     "brand": "673b2b300fea54abd4b34f86",
     "ratingsAverage": 3.5,
