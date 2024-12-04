@@ -32,7 +32,12 @@ const productSchema = new mongoose.Schema(
       type: Number,
     },
     colors: [String],
-    images: [{ type: String }],
+    images: [
+      {
+        url: { type: String, required: true },
+        publicId: { type: String, required: true }
+      }
+    ],
     category: {
       type: mongoose.Schema.ObjectId,
       ref: 'Category',
@@ -52,8 +57,7 @@ const productSchema = new mongoose.Schema(
       default: 0,
     },
     specifications: {
-      type: Map,
-      of: String,
+      type: Object,
     },
   },
   { 
