@@ -20,24 +20,27 @@ const { cloudinaryUploadImage } = require("../utils/cloudinary");
  *  @access  private
  */
 exports.createProduct = asyncHandler(async (req, res, next) => {
-  const uploadedImages = [];
+  if (!req.files) {
+    return next(new ApiError("No images provided", 400));
+  }
 
-  for (const file of req.files) {
-    const upload = await cloudinaryUploadImage(file.path);
-    uploadedImages.push({
+  try {
+    const upload = await cloudinaryUploadImage(req.file.buffer, req.file.originalname);
+
+    const uploadedImage = {
       url: upload.secure_url,
       publicId: upload.public_id,
-    });
-  }
-  req.body.images = uploadedImages;
-
-  const product = await Product.create(req.body);
-
-  req.files.forEach((file) => fs.unlinkSync(file.path));
-
-  res
+    };
+    req.body.image = uploadedImage; 
+    const product = await Product.create(req.body);
+    res
     .status(201)
     .json({ message: "Product created successfully", data: product });
+
+  } catch (error) {
+    console.log("Error creating product:", error);
+    return next(new ApiError("Error creating product", 500));
+  }
 });
 
 /**
