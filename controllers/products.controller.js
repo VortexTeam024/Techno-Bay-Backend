@@ -31,7 +31,7 @@ exports.createProduct = asyncHandler(async (req, res, next) => {
       url: upload.secure_url,
       publicId: upload.public_id,
     };
-    req.body.image = uploadedImage; 
+    req.body.images = uploadedImage; 
     const product = await Product.create(req.body);
     res
     .status(201)
