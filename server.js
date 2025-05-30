@@ -14,7 +14,6 @@ const helmet = require("helmet");
 const connectDB = require("./config/connectDB");
 const ApiError = require("./utils/apiError");
 const globalError = require("./middlewares/error.middleware");
-const serverless = require("serverless-http");
 
 // Initialize Express
 const app = express();
@@ -57,5 +56,5 @@ app.all("*", (req, res, next) => {
 });
 app.use(globalError);
 
-// Export the handler for Vercel
-module.exports = serverless(app);
+// Export the Express app as the default handler for Vercel
+module.exports = app;
