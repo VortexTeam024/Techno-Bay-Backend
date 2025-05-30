@@ -3,7 +3,6 @@ module.exports.config = {
   api: { bodyParser: false }
 };
 
-require("dotenv").config();
 const express = require("express");
 const hpp = require("hpp");
 const cors = require("cors");
@@ -15,11 +14,14 @@ const connectDB = require("./config/connectDB");
 const ApiError = require("./utils/apiError");
 const globalError = require("./middlewares/error.middleware");
 
-// Initialize Express
-const app = express();
+const port = process.env.PORT || 7777;
+// Routes
+const mountRoutes = require("./routes/main");
 
 //** Connect to MongoDB
 connectDB();
+
+const app = express();
 
 //** Trust proxy (e.g., when behind Vercel or another load balancer)
 app.set('trust proxy', 1);
@@ -47,14 +49,23 @@ const limiter = rateLimiting({
 });
 app.use(limiter);
 
-// Routes
-const mountRoutes = require("./routes/main");
+// Mount Routes
 mountRoutes(app);
 
 app.all("*", (req, res, next) => {
   next(new ApiError(`Can't find this route: ${req.originalUrl}`, 400));
 });
+
 app.use(globalError);
 
-// Export the Express app as the default handler for Vercel
-module.exports = app;
+const server = app.listen(port, () => {
+  console.log(`Server running on port ${port}`);
+});
+
+process.on("unhandledRejection", (err) => {
+  console.error(`Unhandled rejection: ${err.name} | ${err.message}`);
+  server.close(() => {
+    console.error(`Shutting down due to unhandled rejection...`);
+    process.exit(1);
+  });
+});
