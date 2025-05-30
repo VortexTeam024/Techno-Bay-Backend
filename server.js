@@ -20,47 +20,49 @@ connectDB();
 
 const app = express();
 
+//** Trust proxy (e.g., when behind Vercel or another load balancer)
+app.set('trust proxy', 1);
+
 //** Middleware for parsing JSON requests
-app.use(express.json({'limit' : '20kb'}));
+app.use(express.json({ limit: '20kb' }));
 
 if (process.env.NODE_ENV === "development") {
   app.use(morgan("dev"));
   console.log(`mode : ${process.env.NODE_ENV}`);
 }
 
-//** Prevent Http Param Pollution
+//** Prevent HTTP Parameter Pollution
 app.use(hpp());
 //** Security Headers (helmet)
 app.use(helmet());
-//** cors middleware
-app.use(cors("*"));
-//** Compression middleware (compression)
-app.use(compression("*"));
+//** CORS middleware
+app.use(cors());
+//** Compression middleware
+app.use(compression());
 //** Rate Limiting
-app.use(
-  rateLimiting({
-    windowMs: 10 * 60 * 1000, // 10 minutes
-    max: 200,
-  })
-);
+const limiter = rateLimiting({
+  windowMs: 10 * 60 * 1000, // 10 minutes
+  max: 200,
+});
+app.use(limiter);
 
 // Mount Routes
 mountRoutes(app);
 
 app.all("*", (req, res, next) => {
-  next(new ApiError(`can't find this route ${req.originalUrl}`, 400));
+  next(new ApiError(`Can't find this route: ${req.originalUrl}`, 400));
 });
 
 app.use(globalError);
 
 const server = app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`Server running on port ${port}`);
 });
 
 process.on("unhandledRejection", (err) => {
-  console.error(`Unhandled rejection : ${err.name} | ${err.message}`);
+  console.error(`Unhandled rejection: ${err.name} | ${err.message}`);
   server.close(() => {
-    console.error(`App shut down...`);
+    console.error(`Shutting down due to unhandled rejection...`);
     process.exit(1);
   });
 });
