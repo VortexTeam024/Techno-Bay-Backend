@@ -9,6 +9,8 @@ const helmet = require("helmet");
 const connectDB = require("./config/connectDB");
 const ApiError = require("./utils/apiError");
 const globalError = require("./middlewares/error.middleware");
+const multer = require("multer"); // ADD THIS LINE
+
 
 const port = process.env.PORT || 7777;
 
