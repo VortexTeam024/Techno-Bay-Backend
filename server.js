@@ -46,13 +46,27 @@ app.use(
   })
 );
 
-// Mount Routes
+// Mount routes
 mountRoutes(app);
 
-app.all("*", (req, res, next) => {
-  next(new ApiError(`can't find this route ${req.originalUrl}`, 400));
+// ➡️ Add this error handling middleware
+app.use((err, req, res, next) => {
+  if (err instanceof multer.MulterError) {
+    return res.status(400).json({
+      status: "error",
+      message: `Multer error: ${err.message}`,
+      field: err.field // This will show the problematic field
+    });
+  }
+  next(err);
 });
 
+// 404 Handler
+app.all("*", (req, res, next) => {
+  next(new ApiError(`Can't find ${req.originalUrl}`, 404));
+});
+
+// Global error handler
 app.use(globalError);
 
 const server = app.listen(port, () => {

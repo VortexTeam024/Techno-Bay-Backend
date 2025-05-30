@@ -1,5 +1,6 @@
   {
     "version": 2,
+    "bodySizeLimit": "10mb",
     "builds": [
         {
             "src": "server.js",
