@@ -1,8 +1,6 @@
 // Disable Vercel's default body parsing
 module.exports.config = {
-  api: {
-    bodyParser: false
-  }
+  api: { bodyParser: false }
 };
 
 require("dotenv").config();
@@ -16,16 +14,13 @@ const helmet = require("helmet");
 const connectDB = require("./config/connectDB");
 const ApiError = require("./utils/apiError");
 const globalError = require("./middlewares/error.middleware");
+const serverless = require("serverless-http");
 
-const port = process.env.PORT || 7777;
-
-// Routes
-const mountRoutes = require("./routes/main");
+// Initialize Express
+const app = express();
 
 //** Connect to MongoDB
 connectDB();
-
-const app = express();
 
 //** Trust proxy (e.g., when behind Vercel or another load balancer)
 app.set('trust proxy', 1);
@@ -43,7 +38,7 @@ app.use(hpp());
 //** Security Headers (helmet)
 app.use(helmet());
 //** CORS middleware
-app.use(cors()); // Allow all origins by default
+app.use(cors());
 //** Compression middleware
 app.use(compression());
 //** Rate Limiting
@@ -53,23 +48,14 @@ const limiter = rateLimiting({
 });
 app.use(limiter);
 
-// Mount Routes
+// Routes
+const mountRoutes = require("./routes/main");
 mountRoutes(app);
 
 app.all("*", (req, res, next) => {
   next(new ApiError(`Can't find this route: ${req.originalUrl}`, 400));
 });
-
 app.use(globalError);
 
-const server = app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
-});
-
-process.on("unhandledRejection", (err) => {
-  console.error(`Unhandled rejection: ${err.name} | ${err.message}`);
-  server.close(() => {
-    console.error(`Shutting down due to unhandled rejection...`);
-    process.exit(1);
-  });
-});
+// Export the handler for Vercel
+module.exports = serverless(app);
