@@ -20,7 +20,7 @@ const { cloudinaryUploadImage } = require("../utils/cloudinary");
  *  @access  private
  */
 exports.createProduct = asyncHandler(async (req, res, next) => {
-  if (!req.files) {
+  if (!req.file) {
     return next(new ApiError("No images provided", 400));
   }
 
