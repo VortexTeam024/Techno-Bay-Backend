@@ -23,6 +23,8 @@ const app = express();
 //** Middleware for parsing JSON requests
 app.use(express.json({'limit' : '20kb'}));
 
+app.set('trust proxy', 1);
+
 if (process.env.NODE_ENV === "development") {
   app.use(morgan("dev"));
   console.log(`mode : ${process.env.NODE_ENV}`);
