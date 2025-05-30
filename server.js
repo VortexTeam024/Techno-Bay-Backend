@@ -1,3 +1,11 @@
+// Disable Vercel's default body parsing
+module.exports.config = {
+  api: {
+    bodyParser: false
+  }
+};
+
+require("dotenv").config();
 const express = require("express");
 const hpp = require("hpp");
 const cors = require("cors");
@@ -10,13 +18,6 @@ const ApiError = require("./utils/apiError");
 const globalError = require("./middlewares/error.middleware");
 
 const port = process.env.PORT || 7777;
-
-// disable any Vercel/Next body parsing
-export const config = {
-  api: {
-    bodyParser: false,
-  },
-};
 
 // Routes
 const mountRoutes = require("./routes/main");
@@ -42,7 +43,7 @@ app.use(hpp());
 //** Security Headers (helmet)
 app.use(helmet());
 //** CORS middleware
-app.use(cors());
+app.use(cors()); // Allow all origins by default
 //** Compression middleware
 app.use(compression());
 //** Rate Limiting
