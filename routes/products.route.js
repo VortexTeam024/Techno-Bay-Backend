@@ -23,7 +23,7 @@ router.use('/:productId/reviews', reviewsRoute);
 router
   .route("/")
   .get(getProducts)
-  .post(upload.single("image"), createProductValidator, createProduct);
+  .post(upload.single("images"), createProductValidator, createProduct);
 router
   .route("/:id")
   .get(getProductValidator, getProduct)

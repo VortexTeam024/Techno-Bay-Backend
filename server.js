@@ -54,10 +54,14 @@ mountRoutes(app);
 // ➡️ Add this error handling middleware
 app.use((err, req, res, next) => {
   if (err instanceof multer.MulterError) {
+    // Handle specific Multer errors
+    let message = err.message;
+    if (err.code === "LIMIT_UNEXPECTED_FILE") {
+      message = `Unexpected field: ${err.field}. Expected field name: 'images'`;
+    }
     return res.status(400).json({
       status: "error",
-      message: `Multer error: ${err.message}`,
-      field: err.field // This will show the problematic field
+      message
     });
   }
   next(err);

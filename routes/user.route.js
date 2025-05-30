@@ -31,7 +31,7 @@ router.get("/get-me", getLoggedUserData, getUser);
 router.put("/update-me", updateLoggedUserValidator, updateLoggedUserData);
 router.put("/change-my-password", updateLoggedUserPassword);
 router.delete("/delete-me", deleteLoggedUserData);
-router.post("/uploaded-profile-photo",upload.single("image"), uploadProfilePhoto);
+router.post("/uploaded-profile-photo",upload.single("images"), uploadProfilePhoto);
 
 router.use(
   authControllers.protect,
